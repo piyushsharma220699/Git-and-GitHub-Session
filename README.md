@@ -8,3 +8,4 @@ The following students have attended the session till now. [If you're one of the
 
 -> Naman Mittal - @mittalnaman2706
 -> Sanket Kumar Singh - @imsanketsingh
+  Ved Prakash - @Ved-here
