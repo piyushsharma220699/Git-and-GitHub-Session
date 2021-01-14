@@ -1,6 +1,6 @@
 # Git and GitHub Session
 
-These are the notes of various sessions taken by me on Git & GitHub. 
+These are the notes of various sessions taken by me on Git & GitHub :) 
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
